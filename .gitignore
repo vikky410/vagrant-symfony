@@ -1,0 +1,15 @@
+.vagrant
+app_dev/web/bundles/
+app_dev/app/bootstrap.php.cache
+app_dev/app/cache/*
+app_dev/app/config/parameters.yml
+app_dev/app/logs/*
+!app_dev/app/cache/.gitkeep
+!app_dev/app/logs/.gitkeep
+app_dev/app/phpunit.xml
+app_dev/build/
+app_dev/vendor/
+app_dev/bin/
+app_dev/composer.phar
+
+
